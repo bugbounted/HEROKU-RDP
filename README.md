@@ -1,6 +1,6 @@
 # Ubuntu-Desktop-noVNC-Heroku-VPS (EXPERIMENTAL)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bugbounted/HEROKU-RDP)
 
 Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 
@@ -24,7 +24,7 @@ NOTE : Heroku can't handle a full machine's workload.
 
 * Don't post issues this repository is full of issues i can't fix them.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bugbounted/HEROKU-RDP)
 </br>
 </br>
 <h3 align="left">Support Developer:</h3>
